@@ -23,3 +23,4 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/movie-review-website.git
+   --replace the 'your-username' part with the username of your github account
